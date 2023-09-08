@@ -1,0 +1,8 @@
+version: 4.3.2
+files:
+  - url: EL-WAGYL-App-4.3.2-win-installer-ia32.exe
+    sha512: vqZCltJHeq2thr0KmAdOUc9NZLCGbUTIGNBmzWyCyUHFeROedZRfGZ7WUgHahS/LPqh4R4UW4iraTIVboXKmRQ==
+    size: 158399297
+path: EL-WAGYL-App-4.3.2-win-installer-ia32.exe
+sha512: vqZCltJHeq2thr0KmAdOUc9NZLCGbUTIGNBmzWyCyUHFeROedZRfGZ7WUgHahS/LPqh4R4UW4iraTIVboXKmRQ==
+releaseDate: '2023-09-07T04:16:00.515Z'
